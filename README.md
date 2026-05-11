@@ -32,3 +32,11 @@ The dashboard analyzes:
 3. Weekend sales are higher than weekdays.
 4. Customer ratings remained consistently positive.
 5. Interactive dashboard helps in quick business decisions.
+
+## Business Use Case
+This dashboard helps stakeholders:
+- Monitor sales performance
+- Identify top-performing cities
+- Analyze customer satisfaction
+- Track order trends
+- Make data-driven decisions
